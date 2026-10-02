@@ -35,16 +35,16 @@ An end-to-end data analysis project in **Python (Pandas, Matplotlib, Seaborn)**.
 
 ## How to Run
 ```bash
-git clone https://github.com/VishalTheTechie/netflix-eda-project.git
-cd netflix-eda-project
+git clone https://github.com/VishalTheTechie/Project-1.git
+cd Project-1
 pip install -r requirements.txt
-jupyter notebook Project-1.ipynb
+jupyter notebook Netflix_EDA.ipynb
 ```
 
 ## Repository Structure
 ```
-netflix-eda-project/
-├── Project-1.ipynb      # full analysis (executed)
+Project-1/
+├── Netflix_EDA.ipynb      # full analysis (executed)
 ├── data/netflix_titles.csv
 ├── images/                # exported charts
 ├── requirements.txt
